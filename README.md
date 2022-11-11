@@ -1,5 +1,8 @@
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Rik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."   
+> ― Martin Fowler
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rik-van-haaren-119346250)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@contact_74222)
 
